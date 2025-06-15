@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "ex3": "file:",
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  },
+  "name": "ex3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "movie.js",
+  "scripts": {
+    "start": "node movie.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
